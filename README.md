@@ -2,7 +2,7 @@
 
 A Hackathon Project.
 
-<img align="center" src="screenshots/fsc_screen.png" height="650em" />
+<img align="center" src="screenshots/fsc_screen.png" height="450em" />
 
 ## Getting Started
 
